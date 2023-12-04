@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+// File: C:\Users\ASUS\OneDrive\Documents\dengarcerita\src\app\page.tsx
+=======
 // File: C:\Users\Legion\Documents\dengarcerita\src\app\page.tsx
+>>>>>>> 7857c01db739d503f35fa0552f2195deda5b2b93
+=======
+// File: C:\Users\rizky\Documents\dengarcerita\src\app\page.tsx
+>>>>>>> 572c113508d0e1a3937c0e456c9881f9ec7c552d
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
